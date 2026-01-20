@@ -25,3 +25,4 @@
 ### 0100 0100 1010 1010 1001 1011 1010 1001 1001 1000 1000 1011 1010 1001 1001 1000 1000 1001 1010
 
 #### Ruilin's feedback: It would be great if there were a way to make the music rhythmic.
+#### Lucy's feedback: I can't quite catch the rhythm or identify the melody, but the musical concept is creative. Adding a code to represent note duration would be helpful.
